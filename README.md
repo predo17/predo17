@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hi, I'm Pedro Henrique
 
-<!--
-**predo17/predo17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎨 Front-end Developer passionate about building **modern, responsive, and user-focused interfaces**.  
+I enjoy turning ideas into clean, functional, and visually appealing web applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+Front-end developer with a focus on **TailwindCSS, TypeScript, and React**.  
+Create modern, responsive, and functional interfaces while paying attention to **user experience** and **good design principles**.  
+Always learning and growing through **real projects** 🚀
+
+I’m someone who values:
+- Clean and organized code
+- Reusable and scalable components
+- Performance and accessibility
+- Continuous learning and hands-on practice
+
+---
+
+## 🛠️ Tech Stack
+
+### Front-end
+- ⚛️ React
+- 🟦 TypeScript
+- 🟨 JavaScript (ES6+)
+- 🎨 TailwindCSS
+- 🧩 HTML5 & CSS3
+
+### Tools & Concepts
+- 📦 Vite
+- 🔁 State Management
+- 📱 Responsive Design
+- 💾 LocalStorage
+- 🌙 Dark/Light Mode
+- 🧠 UI/UX Principles
+
+### Backend (Basic)
+- 🟩 Node.js
+- 🚂 Express.js
+- 🔗 REST APIs
+
+---
