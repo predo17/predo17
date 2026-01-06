@@ -3,8 +3,6 @@
 🎨 Front-end Developer passionate about building **modern, responsive, and user-focused interfaces**.  
 I enjoy turning ideas into clean, functional, and visually appealing web applications.
 
----
-
 ## 🚀 About Me
 
 Front-end developer with a focus on **TailwindCSS, TypeScript, and React**.  
@@ -16,8 +14,6 @@ I’m someone who values:
 - Reusable and scalable components
 - Performance and accessibility
 - Continuous learning and hands-on practice
-
----
 
 ## 🛠️ Tech Stack
 
@@ -40,5 +36,3 @@ I’m someone who values:
 - 🟩 Node.js
 - 🚂 Express.js
 - 🔗 REST APIs
-
----
