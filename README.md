@@ -24,14 +24,6 @@ I’m someone who values:
 - 🎨 TailwindCSS
 - 🧩 HTML5 & CSS3
 
-### Tools & Concepts
-- 📦 Vite
-- 🔁 State Management
-- 📱 Responsive Design
-- 💾 LocalStorage
-- 🌙 Dark/Light Mode
-- 🧠 UI/UX Principles
-
 ### Backend (Basic)
 - 🟩 Node.js
 - 🚂 Express.js
